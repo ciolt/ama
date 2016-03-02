@@ -1,8 +1,8 @@
 # :dizzy: Ask me anything! :sparkles:
 
-<center>
- <h2>[:speech_balloon: Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [:book: Read questions](../../issues?q=is%3Aissue+is%3Aclosed+sort%3Aupdated-desc)</h2>
-</center>
+<h2 align="center">
+ <a href="../../issues/new">:speech_balloon: Ask a question</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="../../issues?q=is%3Aissue+is%3Aclosed+sort%3Aupdated-desc">:book: Read questions</a>
+</h2>
 
 I get a lot of questions by email. This way anyone can read the answer!
 
